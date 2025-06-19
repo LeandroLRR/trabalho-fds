@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(229, 243, 246) ;
+}
+h1 {text-align: center;
+color: brown;}
+p { font-size: 1.2em;
+text-align: justify;}
+ul { padding: 0; }
+    li {margin-bottom: 10px;}
+    img {border-radius: 10px;
+    max-width: 100%;
+height: auto;
+display: block;
+margin: 20px auto;}
+table {width: 60%;
+border-collapse: collapse;
+margin: 20px auto;
+box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);}
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;}
+th {background-color: rgb(252, 250, 247);
+color: #605f5f;}
+a {color: blue;}
+a:hover {color: black;}
+#meuBotao {
+    display: block;
+    margin: 20px auto;}
+#mensagemDiv {
+    text-align: center;
+    margin: top 10px ;}
